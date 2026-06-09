@@ -1,0 +1,11 @@
+numpy
+openpyxl
+matplotlib
+scipy
+PySide6
+tables
+pybaselines
+charset_normalizer
+pyinstaller
+thop
+psutil

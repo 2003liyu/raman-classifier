@@ -1,0 +1,12 @@
+__pycache__
+data
+temp
+dist
+build
+res
+*.egg-info
+.venv
+note.txt
+*.h5
+result.json
+installer
